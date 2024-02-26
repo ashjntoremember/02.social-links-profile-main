@@ -8,6 +8,8 @@
  
 body {
     background-color: var(--Off-Black);
+    margin: 0 auto;
+    max-width: 1440px;
 }
 
 section , .container{
